@@ -1,0 +1,42 @@
+body{
+    background-color: #d5bbb1;
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+    font-family: "Roboto Slab", serif;
+   font-optical-sizing: auto;
+   font-weight: 100px;
+    font-style: normal;
+}
+#info{
+    width:600px;
+    height :900px;
+    border:1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+  
+    background-color: #9cc4b2;
+    border-radius: 10px;
+}
+#container{
+    display:flex;
+}
+#comp1,#comp2{
+    width:280px;
+    height:700px;
+    background-color: #E76D83;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    font-display: flex;
+    flex-direction: column;
+    font-family: "Yuyu", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+  font-style: normal;
+}
+#anuj{
+    height: 200px;
+    width: 200px;
+    margin-top: 2px;
+    margin-left:2px;
+    border-radius: 20px;
+}
